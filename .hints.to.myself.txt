@@ -1,0 +1,28 @@
+ 
+ #
+ # git hints
+ #
+ git status
+ git add blah
+ git commit -m 'adds something'
+ git push -u origin master
+
+git status
+git add *; git commit -m 'adds initial files'; git push -u origin master
+
+
+git add *; git commit -m 'adds initial files'; git push -u origin master
+
+
+git add  .gitignore
+git commit -m 'adds initial files'; git push -u origin master
+git add  .hints.to.myself.txt
+git commit -m 'adds initial files'; git push -u origin master
+git add  d00.txt
+git commit -m 'adds initial files'; git push -u origin master
+git add  d01.txt
+git commit -m 'adds initial files'; git push -u origin master
+git add  d02.txt
+git commit -m 'adds initial files'; git push -u origin master
+git add  jotcr.js
+git commit -m 'adds initial files'; git push -u origin master
